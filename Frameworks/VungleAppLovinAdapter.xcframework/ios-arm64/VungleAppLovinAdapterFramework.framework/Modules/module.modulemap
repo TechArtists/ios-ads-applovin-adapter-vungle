@@ -1,0 +1,6 @@
+framework module VungleAppLovinAdapterFramework {
+  umbrella header "VungleAppLovinAdapterFramework.h"
+  export *
+
+  module * { export * }
+}
